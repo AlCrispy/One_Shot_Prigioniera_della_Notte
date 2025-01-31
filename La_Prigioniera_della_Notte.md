@@ -6,98 +6,135 @@
 - **Durata:** ~3-4 ore  
 
 ### **Hook: L'Assalto al Carro**
-I personaggi viaggiano lungo una strada di campagna o attraverso una foresta oscura. Davanti a loro si staglia un carro ribaltato, circondato da diversi cadaveri. Un gruppo di banditi sta saccheggiando i resti e una donna dai vestiti logori è rinchiusa in una **gabbia di ferro su ruote**.  
-
-La donna si aggrappa alle sbarre e implora:  
-> "Per favore, liberatemi! Mi hanno rapita e vogliono vendermi come schiava! Vi prego!"  
-
-Se interrogati, i banditi dichiarano che la donna è una **criminale pericolosa** e che il carro non apparteneva a loro. Tuttavia, non forniscono prove.  
+I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logori è chiusa in una gabbia e implora aiuto. Dice di essere stata rapita, ma non tutto è come sembra...
 
 ---
 
 ## ⚔️ **Atto 1: L'Assalto al Carro**
-### **Incontro**
-- **Banditi (5-6)**: Arcieri e combattenti furtivi.  
-- **Capobanda (1)**: Più forte, usa tattiche aggressive e può tentare la fuga.  
 
-Se i PG attaccano i banditi, questi combattono fino alla morte o cercano di scappare. Se li interrogano, i banditi confermano solo che stavano cercando di **prendere il controllo del carro** dopo un attacco precedente.  
+### **Obiettivi**
+- Introdurre un combattimento iniziale.
+- Creare un'opportunità di roleplay con la prigioniera.
+- Seminare indizi sul mistero.
 
-**Loot e Indizi:**  
-- **Oro e gioielli rubati.**  
-- **Lettera misteriosa:** Suggerisce che la donna **venisse trasportata da altri**, non dai banditi.  
+### **Eventi principali**
+1. **Battaglia con i Banditi** 🏹
+   - 5-7 Banditi + 1 Capitano dei Banditi.
+   - I banditi discutono se vendere o uccidere la prigioniera.
+   - La prigioniera si dimena e urla ai PG di aiutarla.
 
-### 🤔 **Punto di Decisione 1: Cosa fare con la donna?**
-1. **Liberarla** → Lyra chiede di essere accompagnata al suo villaggio natale.  
-2. **Lasciarla nella gabbia** → Il gruppo sente parlare di un "prelato" che sta cercando questa donna.  
+2. **Interazione con la Prigioniera** 🗣️
+   - Si presenta come **Lyra**, una donna rapita.
+   - Insight (CD 15): sta nascondendo qualcosa.
+   - Se liberata, chiede ai PG di scortarla al suo villaggio.
+
+3. **Indizi sul Carro** 🔍
+   - Lettere e diario menzionano una "maledizione" e una strage.
+   - Un diario dei banditi recita:  
+     > "L'abbiamo trovata nei boschi, sola e coperta di sangue. I superstiti ci hanno pagato per fermarla. Che diavolo è successo in quel villaggio?"
+
+🤔 **Punto di Decisione 1:** Liberare Lyra o lasciarla nella gabbia?
 
 ---
 
 ## 🌲 **Percorso Alternativo: Se i PG lasciano Lyra nella gabbia**
-Mentre i PG decidono il da farsi, arriva **Fratello Aldric**, un chierico guerriero con una scorta di paladini.  
 
-**Fratello Aldric:**  
-- Porta con sé **ordini di epurazione**, dichiarando che la donna è una **licantropa colpevole di sterminio**.  
-- Chiede ai PG di **non interferire** mentre prepara un rito di purificazione.  
-- Se interrogato, rivela che **Lyra ha massacrato il suo intero villaggio** durante una notte di luna piena.  
+Se i giocatori decidono di non liberarla, la storia continua in modo diverso:  
+Dopo qualche ora, un gruppo di uomini armati emerge dal bosco. Sono **superstiti del villaggio distrutto**, in cerca della donna.  
 
-A questo punto, i PG possono:  
-1. **Consegnare Lyra** → Viene bruciata viva. Ma una volta che i PG raggiungono il villaggio, trovano **prove di una minaccia più grande**.  
-2. **Interrompere l'epurazione** → Devono affrontare il chierico e i suoi paladini in un combattimento difficile.  
+### **L’Arrivo dei Cacciatori**  
+- Il leader, **Edric il Giusto**, è un uomo segnato dal dolore. I suoi occhi sono stanchi, ma pieni di odio.  
+- Alza la spada e dice:  
+  > "Questa cosa non è umana. Ha sterminato le nostre famiglie. Deve morire."  
 
-Se scelgono la prima opzione, Lyra urla maledizioni contro di loro fino all'ultimo respiro. **Ma il villaggio è ancora in rovina… quindi cosa l'ha distrutto davvero?**  
+- Il gruppo è composto da **4 cacciatori di mostri veterani** e **1 chierico di Helm** con poteri contro i licantropi.  
+
+### **La Scelta dei PG**  
+
+1. **Lasciare che la giustizino** 🗡️  
+   - Edric e i suoi uomini accendono un rogo e preparano Lyra per l’esecuzione.  
+   - Lyra implora i PG di fermarli, dicendo di non ricordare nulla del massacro.  
+   - Se i PG permettono l’esecuzione, sentiranno **un ululato straziante** mentre le fiamme consumano il corpo.  
+   - Più tardi, un senso di disagio li perseguita… era davvero colpevole?  
+   
+2. **Tentare di negoziare** ⚖️  
+   - Con Persuasione (CD 18), i PG possono convincere Edric a lasciarla vivere fino alla prossima luna piena per scoprire la verità.  
+   - Edric accetta, ma solo se i PG giurano di **ucciderla loro stessi se si trasformerà di nuovo**.  
+   - Lyra ora è sotto la loro responsabilità.  
+
+3. **Difendere Lyra con la forza** ⚔️  
+   - Se i PG decidono di combattere, affrontano i cacciatori in un duro scontro.  
+   - Se vincono, Lyra è libera… ma ora **sono nemici di un gruppo di sterminatori di mostri**.  
+   - Questo potrebbe portarli a essere inseguiti da inquisitori in futuro.  
+
+Se Lyra sopravvive, il viaggio verso il villaggio continua… ma con tensioni più alte.  
 
 ---
 
 ## 🌲 **Atto 2: Il Villaggio Abbandonato**
-Dopo un viaggio di uno o due giorni, i PG arrivano a **Villaggio Mezzaluna**.  
 
-Ma non c’è nessuno.  
-- **Case bruciate.**  
-- **Cadaveri smembrati.**  
-- **Porte e finestre squarciate da artigli enormi.**  
-- **Strani segni rituali incisi sulle pietre.**  
+### **Obiettivi**
+- Dare ai PG indizi sulla vera natura della prigioniera.
+- Costruire tensione attraverso l’esplorazione.
 
-### **Indizi chiave**
-- **Diari dei sopravvissuti:** Parlano di una **licantropa tra loro**, ma alcuni **descrivono creature più grandi e mostruose**.  
-- **Impronte di lupi giganti** nelle strade.  
-- **Alcuni superstiti nascosti:** Se vedono Lyra, si **petrificano dalla paura** e confermano che **lei ha sterminato il villaggio**.  
+### **Eventi principali**
+1. **Attraversare la Foresta** 🌿
+   - Tracce di artigli su alberi, ossa sparse.
+   - Lyra si comporta in modo strano, si tiene spesso il fianco come se avesse dolore.
 
-Lyra nega tutto, sembra confusa. La sua rabbia cresce fino a esplodere…  
+2. **Esplorazione del Villaggio** 🏚️
+   - Case bruciate, sangue essiccato ovunque.
+   - Resti di corpi con segni di zanne e artigli **troppo grandi per un normale animale**.
+   - Uno **specchio insanguinato con segni di pugni**, come se qualcuno si fosse guardato e avesse avuto un crollo emotivo.
+   - Tra i resti si trovano le note di un anziano del villaggio:  
+     > "Lyra ha lottato contro la maledizione, ma la luna piena l’ha trasformata. Non posso fermarla. Se qualcuno trova queste parole, sappiate che c’era speranza… ma ora temo sia troppo tardi."
+
+3. **La memoria di Lyra ritorna** 🧠  
+   - Se vede oggetti del villaggio, potrebbe avere **flashback del massacro**.  
+   - Se i PG la mettono alle strette, inizia a ricordare **di aver sterminato il villaggio**.  
 
 ---
 
 ## 🔥 **Atto 3: Lo Scontro Finale e la Scelta Morale**
-Lyra viene sopraffatta dai suoi ricordi. **Cade in ginocchio e inizia a trasformarsi.**  
 
-Se i PG cercano di fermarla pacificamente, devono trovare un **modo per placare la sua furia** (magia, persuasione, protezione divina).  
+### **Obiettivi**
+- Confrontare i PG con una decisione difficile.
+- Offrire un combattimento intenso o una soluzione alternativa.
 
-### **Boss Fight: Lyra la Licantropa**
-**CA:** 15 (pelle coriacea)  
-**PF:** ~90 (12d8+36)  
-**Velocità:** 40 piedi (60 piedi in forma lupo)  
+### **Eventi principali**
+1. **Il Conflitto** ⚖️  
+   - Lyra prega i PG di risparmiarla.  
+   - Se i cacciatori sono ancora vivi, potrebbero tornare per terminarla.  
 
-#### **Tratti Speciali**
-- **Rigenerazione (1d10 PF/Turno)**  
-- **Maledizione della Licantropia** (Morso infetta umanoidi)  
-- **Ira Bestiale:** Quando scende sotto 50 PF, entra in frenesia.  
-- **Ululato della Cacciatrice:** Richiama 2d4 lupi dopo 1d4 turni.  
+2. **Combattimento Finale** ⚔️  
+   - Se i PG vogliono ucciderla, Lyra si trasforma in **licantropo crudele e disperato**.  
+   - Se il combattimento si prolunga, la luna sorge, rendendola ancora più forte.  
 
-#### **Attacchi**
-- **Morso (+6 a colpire, 1d8+4 perforante, CD 14 CON per evitare infezione)**  
-- **Artigli (+6 a colpire, 2d6+4 tagliente, sbilancia bersagli)**  
+3. **Punto di Decisione Finale** 🤯  
+   - **Opzione 1: Uccidere Lyra.**  
+   - **Opzione 2: Aiutarla a trovare una cura.**  
+   - **Opzione 3: Lasciarla andare nel mondo.**  
 
-### **Esito della Battaglia**
-1. **Ucciderla:** I PG pongono fine alla minaccia, ma scoprono che **non era l’unico lupo mannaro**.  
-2. **Tentare di curarla:** Se riescono a fermare la trasformazione, potrebbero **salvarla** o almeno farla redimere.  
-3. **Lasciarla fuggire:** Tornerà in futuro… magari più forte.  
+---
+
+## 🔮 **Epilogo e Conseguenze**
+
+### **Se Lyra viene uccisa:**  
+- I PG trovano lettere che rivelano il suo rimorso.  
+- Potrebbero essere maledetti per il loro gesto.  
+
+### **Se Lyra viene curata:**  
+- Diventa un'alleata, ma la maledizione potrebbe tornare...  
+
+### **Se Lyra fugge:**  
+- Tempo dopo, si sentono voci di un nuovo massacro in un villaggio vicino...  
 
 ---
 
 ## 🎭 **Temi della One-Shot**  
-- **Moralità ambigua:** La giustizia è chiara o sfocata?  
-- **Orrore latente:** Il male non è sempre quello ovvio.  
-- **Scelte difficili:** Nessuna risposta è giusta al 100%.  
+- **Moralità ambigua:** La giustizia è chiara o offuscata?  
+- **Orrore latente:** Il pericolo si nasconde dietro una facciata innocente.  
+- **Scelte difficili:** Ogni azione ha una conseguenza.  
 
----
-
-# 🎲 **Fine della One-Shot**
+---  
+**Fine della One-Shot** 🎲🔥  
