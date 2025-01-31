@@ -6,103 +6,97 @@
 - **Durata:** ~3-4 ore  
 
 ### **Hook: L'Assalto al Carro**
-I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logori è chiusa in una gabbia e implora aiuto. Dice di essere stata rapita, ma non tutto è come sembra...
+Mentre i personaggi viaggiano lungo una strada di campagna o attraverso una foresta oscura, scorgono un carro rovesciato con diversi cadaveri attorno. Un gruppo di banditi sta saccheggiando i resti e una donna vestita di stracci è rinchiusa in una robusta gabbia di ferro su ruote.  
+
+La donna implora aiuto:  
+> "Per favore, liberatemi! Mi hanno rapita e vogliono vendermi come schiava! Vi prego!"  
+
+Se interrogati, i banditi possono mentire e dire che è una criminale pericolosa. Se vengono sconfitti, non c’è nessun altro a confermare la loro storia.  
 
 ---
 
 ## ⚔️ **Atto 1: L'Assalto al Carro**
-(Dettagli degli eventi iniziali invariati)  
+**Incontro:**  
+- **Banditi (5-6)**: Usano azioni furtive e archi corti per colpire da lontano.  
+- **Capobanda (1)**: Più forte, usa uno stocco e ordina ai suoi sottoposti.  
 
-🤔 **Punto di Decisione 1:** Liberare Lyra o lasciarla nella gabbia?  
+I PG devono decidere se attaccare i banditi o tentare un approccio diplomatico. Se scelgono di attaccare, i banditi combattono fino alla morte o fuggono se rimangono in inferiorità numerica.  
+
+Dopo il combattimento, i PG trovano:  
+- **Oro e gioielli rubati** dai banditi.  
+- **Una lettera** che suggerisce che la donna fosse trasportata da qualcuno diverso dai banditi.  
+
+🤔 **Punto di Decisione 1:**  
+- **Se liberano la donna**, lei ringrazia i PG e chiede di essere riportata al suo villaggio.  
+- **Se la lasciano nella gabbia**, i PG devono decidere cosa fare dopo: lasciarla ai suoi rapitori, venderla, o lasciarla lì.  
 
 ---
 
 ## 🌲 **Percorso Alternativo: Se i PG lasciano Lyra nella gabbia**
-(Dettagli dell’incontro con i cacciatori invariati)  
+Se i PG decidono di lasciarla nella gabbia, sentiranno nelle notti seguenti **urla e ululati** provenienti dalla foresta.  
+- **Una notte dopo**, i PG scoprono che il carro è stato distrutto, la gabbia è piegata e spezzata. I cadaveri dei banditi sono stati brutalmente squartati.  
+- **Una settimana dopo**, mentre viaggiano, sentono che il loro cammino è sorvegliato da **occhi luminosi** tra gli alberi.  
+- **Al villaggio abbandonato**, trovano **tracce della sua presenza**, impronte di lupo e segni di artigli sulle porte.  
+
+Alla fine, Lyra riapparirà, **arrabbiata e più feroce**, considerandoli complici del suo dolore. Se tentano di aiutarla, sarà più difficile guadagnarsi la sua fiducia.  
 
 ---
 
 ## 🌲 **Atto 2: Il Villaggio Abbandonato**
-(Dettagli invariati)  
+Dopo un viaggio di un giorno o due, i PG arrivano al **villaggio natale di Lyra**, ma trovano solo **rovine fumanti e cadaveri dilaniati**.  
+
+**Indizi che i PG possono trovare:**  
+- **Corpi straziati** come se fossero stati attaccati da un'enorme bestia.  
+- **Case bruciate** con segni di lotta sulle porte.  
+- **Un diario** che racconta di un'epidemia di licantropia scoppiata dopo un "attacco misterioso".  
+- **Alcuni superstiti nascosti**, terrorizzati, che potrebbero **riconoscere Lyra** e accusarla di essere la colpevole.  
+
+Lyra stessa sembra scioccata, giura di non ricordare nulla e supplica i PG di aiutarla a scoprire la verità.  
 
 ---
 
 ## 🔥 **Atto 3: Lo Scontro Finale e la Scelta Morale**
+Mentre esplorano il villaggio, i PG possono raccogliere più indizi che confermano che **Lyra è la responsabile della strage**.  
+A questo punto, Lyra potrebbe avere un crollo emotivo e trasformarsi involontariamente.  
 
-### **Statistiche di Lyra la Licantropa (CR ~4)**
-**Creatura Media, Umanoide (Maledetto), Neutrale Caotico**  
+### **Combattimento con Lyra la Licantropa**
+Lyra assume la sua **forma ibrida** e attacca i PG. Se il combattimento si prolunga, emette un **ululato** per chiamare rinforzi.  
+
+Se i PG vincono, devono decidere:  
+- **Ucciderla definitivamente.**  
+- **Tentare di curarla** (con magia potente).  
+- **Lasciarla vivere** e sperare che impari a controllarsi.  
+
+---
+
+## 🐺 **Statistiche di Lyra la Licantropa (CR ~4-5)**
 **CA:** 15 (pelle coriacea)  
 **PF:** ~90 (12d8+36)  
 **Velocità:** 40 piedi (60 piedi in forma ibrida/lupo)  
 
-#### **Statistiche**
-| FOR | DES | COS | INT | SAG | CAR |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 18 (+4) | 15 (+2) | 17 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
+#### **Abilità e Tratti Speciali**
+- **Rigenerazione (1d10 PF/Turno)**  
+- **Maledizione della Licantropia** (Morso infetta umanoidi)  
+- **Ira Bestiale:** Quando scende sotto 50 PF, entra in frenesia, ottiene attacchi extra.  
+- **Ululato della Cacciatrice:** Richiama 2d4 lupi dopo 1d4 turni.  
 
-**Tiri Salvezza:** DES +5, COS +6  
-**Abilità:** Percezione +5, Furtività +6, Intimidazione +4  
-**Resistenze:** Taglienti, Contundenti e Perforanti da armi non magiche che non siano d’argento  
-**Immunità:** Malattie  
-**Sensi:** Scurovisione 60 piedi, Percezione Passiva 15  
-**Linguaggi:** Comune, Mannaro  
-
----
-
-## 🐺 **Tratti Speciali**
-
-### **Forma Ibrida (Ricarica 1/Turno)**
-Può trasformarsi in un **lupo** o in una forma **ibrida** (mezzo-lupo, mezzo-umano).  
-- In forma ibrida: Guadagna **Artigli e Morso** come attacchi naturali.  
-- In forma di lupo: Guadagna **Velocità 60 piedi** e **Tiro Salvezza FOR CD 14** per resistere ai suoi attacchi di morso.  
-
-### **Rigenerazione Licantropica (1d10 PF/Turno)**
-Recupera **1d10 PF a ogni suo turno**, a meno che non sia stata colpita da **danno magico o armi d’argento**.  
-
-### **Maledizione della Licantropia**
-Una creatura umanoide che subisce danni dal suo **Morso** deve superare un **TS Costituzione CD 14** o essere **infetta da licantropia**.  
-
-### **Ira Bestiale (1/Giorno)**
-Quando scende sotto **50 PF**, entra in un **frenesia furiosa** per 3 turni:  
-- Ottiene **+2 ai danni da mischia**  
-- Può effettuare un attacco extra con Artigli  
-- Guadagna **Resistenza ai danni magici**  
-
-### **Ululato della Cacciatrice (1/Giorno)**
-- Lyra lancia un **ululato inquietante**, udibile fino a **300 piedi** di distanza.  
-- Dopo **1d4 turni**, arrivano **2d4 Lupi (CR 1/4) o 1d4 Lupi Crudele (CR 1/2)**.  
-- I lupi combattono al suo fianco e possono **aiutarla a circondare i PG** (vantaggio agli attacchi).  
-
----
-
-## 🐺 **Azioni**
-
-### **Attacchi Multiattacco (Forma Ibrida)**
-Lyra effettua **3 attacchi**: uno con il Morso e due con gli Artigli.  
-
-**🔹 Morso.** Attacco in mischia: +6 a colpire, gittata 5 piedi, un bersaglio.  
-- **Danno:** 9 (1d8+4) perforante.  
-- Se il bersaglio è una creatura umanoide, deve fare un **TS Costituzione CD 14** o essere infettato dalla **licantropia**.  
-
-**🔹 Artigli.** Attacco in mischia: +6 a colpire, gittata 5 piedi, un bersaglio.  
-- **Danno:** 8 (1d6+4) tagliente.  
-- Se colpisce due volte lo stesso bersaglio, lo **sbilancia a terra** (TS FOR CD 14 per resistere).  
+#### **Attacchi**
+- **Morso (+6 a colpire, 1d8+4 perforante, CD 14 CON per evitare infezione)**  
+- **Artigli (+6 a colpire, 2d6+4 tagliente, sbilancia bersagli)**  
 
 ---
 
 ## 📜 **Strategia in Combattimento**
-1. **Inizia in forma umana o ibrida, per poi trasformarsi completamente.**  
-2. **Attacca bersagli isolati con Morso per diffondere la licantropia.**  
-3. **Usa la velocità in forma di lupo per colpire e scappare.**  
-4. **Frenesia furiosa** rende il combattimento più difficile nella fase finale.  
-5. **Se si sente sopraffatta, fugge nel bosco e tende agguati.**  
+1. Attacca bersagli isolati con il **Morso** per diffondere la licantropia.  
+2. Usa la **velocità del lupo** per colpire e scappare.  
+3. Se ferita gravemente, fugge nella foresta e tende imboscate.  
 
 ---
 
 ## 🎭 **Temi della One-Shot**  
-- **Moralità ambigua:** La giustizia è chiara o offuscata?  
-- **Orrore latente:** Il pericolo si nasconde dietro una facciata innocente.  
-- **Scelte difficili:** Ogni azione ha una conseguenza.  
+- **Moralità ambigua:** I PG sono davvero eroi?  
+- **Orrore latente:** Il mostro era sempre lì, in attesa.  
+- **Scelte difficili:** Nessuna risposta è giusta al 100%.  
 
 ---  
-**Fine della One-Shot** 🎲🔥  
+🎲 **Fine della One-Shot**  
