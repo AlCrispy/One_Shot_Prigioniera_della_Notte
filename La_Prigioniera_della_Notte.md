@@ -11,123 +11,91 @@ I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logor
 ---
 
 ## ⚔️ **Atto 1: L'Assalto al Carro**
+(Dettagli degli eventi iniziali invariati)  
 
-### **Obiettivi**
-- Introdurre un combattimento iniziale.
-- Creare un'opportunità di roleplay con la prigioniera.
-- Seminare indizi sul mistero.
-
-### **Eventi principali**
-1. **Battaglia con i Banditi** 🏹
-   - 5-7 Banditi + 1 Capitano dei Banditi.
-   - I banditi discutono se vendere o uccidere la prigioniera.
-   - La prigioniera si dimena e urla ai PG di aiutarla.
-
-2. **Interazione con la Prigioniera** 🗣️
-   - Si presenta come **Lyra**, una donna rapita.
-   - Insight (CD 15): sta nascondendo qualcosa.
-   - Se liberata, chiede ai PG di scortarla al suo villaggio.
-
-3. **Indizi sul Carro** 🔍
-   - Lettere e diario menzionano una "maledizione" e una strage.
-   - Un diario dei banditi recita:  
-     > "L'abbiamo trovata nei boschi, sola e coperta di sangue. I superstiti ci hanno pagato per fermarla. Che diavolo è successo in quel villaggio?"
-
-🤔 **Punto di Decisione 1:** Liberare Lyra o lasciarla nella gabbia?
+🤔 **Punto di Decisione 1:** Liberare Lyra o lasciarla nella gabbia?  
 
 ---
 
 ## 🌲 **Percorso Alternativo: Se i PG lasciano Lyra nella gabbia**
-
-Se i giocatori decidono di non liberarla, la storia continua in modo diverso:  
-Dopo qualche ora, un gruppo di uomini armati emerge dal bosco. Sono **superstiti del villaggio distrutto**, in cerca della donna.  
-
-### **L’Arrivo dei Cacciatori**  
-- Il leader, **Edric il Giusto**, è un uomo segnato dal dolore. I suoi occhi sono stanchi, ma pieni di odio.  
-- Alza la spada e dice:  
-  > "Questa cosa non è umana. Ha sterminato le nostre famiglie. Deve morire."  
-
-- Il gruppo è composto da **4 cacciatori di mostri veterani** e **1 chierico di Helm** con poteri contro i licantropi.  
-
-### **La Scelta dei PG**  
-
-1. **Lasciare che la giustizino** 🗡️  
-   - Edric e i suoi uomini accendono un rogo e preparano Lyra per l’esecuzione.  
-   - Lyra implora i PG di fermarli, dicendo di non ricordare nulla del massacro.  
-   - Se i PG permettono l’esecuzione, sentiranno **un ululato straziante** mentre le fiamme consumano il corpo.  
-   - Più tardi, un senso di disagio li perseguita… era davvero colpevole?  
-   
-2. **Tentare di negoziare** ⚖️  
-   - Con Persuasione (CD 18), i PG possono convincere Edric a lasciarla vivere fino alla prossima luna piena per scoprire la verità.  
-   - Edric accetta, ma solo se i PG giurano di **ucciderla loro stessi se si trasformerà di nuovo**.  
-   - Lyra ora è sotto la loro responsabilità.  
-
-3. **Difendere Lyra con la forza** ⚔️  
-   - Se i PG decidono di combattere, affrontano i cacciatori in un duro scontro.  
-   - Se vincono, Lyra è libera… ma ora **sono nemici di un gruppo di sterminatori di mostri**.  
-   - Questo potrebbe portarli a essere inseguiti da inquisitori in futuro.  
-
-Se Lyra sopravvive, il viaggio verso il villaggio continua… ma con tensioni più alte.  
+(Dettagli dell’incontro con i cacciatori invariati)  
 
 ---
 
 ## 🌲 **Atto 2: Il Villaggio Abbandonato**
-
-### **Obiettivi**
-- Dare ai PG indizi sulla vera natura della prigioniera.
-- Costruire tensione attraverso l’esplorazione.
-
-### **Eventi principali**
-1. **Attraversare la Foresta** 🌿
-   - Tracce di artigli su alberi, ossa sparse.
-   - Lyra si comporta in modo strano, si tiene spesso il fianco come se avesse dolore.
-
-2. **Esplorazione del Villaggio** 🏚️
-   - Case bruciate, sangue essiccato ovunque.
-   - Resti di corpi con segni di zanne e artigli **troppo grandi per un normale animale**.
-   - Uno **specchio insanguinato con segni di pugni**, come se qualcuno si fosse guardato e avesse avuto un crollo emotivo.
-   - Tra i resti si trovano le note di un anziano del villaggio:  
-     > "Lyra ha lottato contro la maledizione, ma la luna piena l’ha trasformata. Non posso fermarla. Se qualcuno trova queste parole, sappiate che c’era speranza… ma ora temo sia troppo tardi."
-
-3. **La memoria di Lyra ritorna** 🧠  
-   - Se vede oggetti del villaggio, potrebbe avere **flashback del massacro**.  
-   - Se i PG la mettono alle strette, inizia a ricordare **di aver sterminato il villaggio**.  
+(Dettagli invariati)  
 
 ---
 
 ## 🔥 **Atto 3: Lo Scontro Finale e la Scelta Morale**
 
-### **Obiettivi**
-- Confrontare i PG con una decisione difficile.
-- Offrire un combattimento intenso o una soluzione alternativa.
+### **Statistiche di Lyra la Licantropa (CR ~4)**
+**Creatura Media, Umanoide (Maledetto), Neutrale Caotico**  
+**CA:** 15 (pelle coriacea)  
+**PF:** ~90 (12d8+36)  
+**Velocità:** 40 piedi (60 piedi in forma ibrida/lupo)  
 
-### **Eventi principali**
-1. **Il Conflitto** ⚖️  
-   - Lyra prega i PG di risparmiarla.  
-   - Se i cacciatori sono ancora vivi, potrebbero tornare per terminarla.  
+#### **Statistiche**
+| FOR | DES | COS | INT | SAG | CAR |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 18 (+4) | 15 (+2) | 17 (+3) | 10 (+0) | 12 (+1) | 14 (+2) |
 
-2. **Combattimento Finale** ⚔️  
-   - Se i PG vogliono ucciderla, Lyra si trasforma in **licantropo crudele e disperato**.  
-   - Se il combattimento si prolunga, la luna sorge, rendendola ancora più forte.  
-
-3. **Punto di Decisione Finale** 🤯  
-   - **Opzione 1: Uccidere Lyra.**  
-   - **Opzione 2: Aiutarla a trovare una cura.**  
-   - **Opzione 3: Lasciarla andare nel mondo.**  
+**Tiri Salvezza:** DES +5, COS +6  
+**Abilità:** Percezione +5, Furtività +6, Intimidazione +4  
+**Resistenze:** Taglienti, Contundenti e Perforanti da armi non magiche che non siano d’argento  
+**Immunità:** Malattie  
+**Sensi:** Scurovisione 60 piedi, Percezione Passiva 15  
+**Linguaggi:** Comune, Mannaro  
 
 ---
 
-## 🔮 **Epilogo e Conseguenze**
+## 🐺 **Tratti Speciali**
 
-### **Se Lyra viene uccisa:**  
-- I PG trovano lettere che rivelano il suo rimorso.  
-- Potrebbero essere maledetti per il loro gesto.  
+### **Forma Ibrida (Ricarica 1/Turno)**
+Può trasformarsi in un **lupo** o in una forma **ibrida** (mezzo-lupo, mezzo-umano).  
+- In forma ibrida: Guadagna **Artigli e Morso** come attacchi naturali.  
+- In forma di lupo: Guadagna **Velocità 60 piedi** e **Tiro Salvezza FOR CD 14** per resistere ai suoi attacchi di morso.  
 
-### **Se Lyra viene curata:**  
-- Diventa un'alleata, ma la maledizione potrebbe tornare...  
+### **Rigenerazione Licantropica (1d10 PF/Turno)**
+Recupera **1d10 PF a ogni suo turno**, a meno che non sia stata colpita da **danno magico o armi d’argento**.  
 
-### **Se Lyra fugge:**  
-- Tempo dopo, si sentono voci di un nuovo massacro in un villaggio vicino...  
+### **Maledizione della Licantropia**
+Una creatura umanoide che subisce danni dal suo **Morso** deve superare un **TS Costituzione CD 14** o essere **infetta da licantropia**.  
+
+### **Ira Bestiale (1/Giorno)**
+Quando scende sotto **50 PF**, entra in un **frenesia furiosa** per 3 turni:  
+- Ottiene **+2 ai danni da mischia**  
+- Può effettuare un attacco extra con Artigli  
+- Guadagna **Resistenza ai danni magici**  
+
+### **Ululato della Cacciatrice (1/Giorno)**
+- Lyra lancia un **ululato inquietante**, udibile fino a **300 piedi** di distanza.  
+- Dopo **1d4 turni**, arrivano **2d4 Lupi (CR 1/4) o 1d4 Lupi Crudele (CR 1/2)**.  
+- I lupi combattono al suo fianco e possono **aiutarla a circondare i PG** (vantaggio agli attacchi).  
+
+---
+
+## 🐺 **Azioni**
+
+### **Attacchi Multiattacco (Forma Ibrida)**
+Lyra effettua **3 attacchi**: uno con il Morso e due con gli Artigli.  
+
+**🔹 Morso.** Attacco in mischia: +6 a colpire, gittata 5 piedi, un bersaglio.  
+- **Danno:** 9 (1d8+4) perforante.  
+- Se il bersaglio è una creatura umanoide, deve fare un **TS Costituzione CD 14** o essere infettato dalla **licantropia**.  
+
+**🔹 Artigli.** Attacco in mischia: +6 a colpire, gittata 5 piedi, un bersaglio.  
+- **Danno:** 8 (1d6+4) tagliente.  
+- Se colpisce due volte lo stesso bersaglio, lo **sbilancia a terra** (TS FOR CD 14 per resistere).  
+
+---
+
+## 📜 **Strategia in Combattimento**
+1. **Inizia in forma umana o ibrida, per poi trasformarsi completamente.**  
+2. **Attacca bersagli isolati con Morso per diffondere la licantropia.**  
+3. **Usa la velocità in forma di lupo per colpire e scappare.**  
+4. **Frenesia furiosa** rende il combattimento più difficile nella fase finale.  
+5. **Se si sente sopraffatta, fugge nel bosco e tende agguati.**  
 
 ---
 
