@@ -30,7 +30,8 @@ I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logor
 
 3. **Indizi sul Carro** 🔍
    - Lettere e diario menzionano una "maledizione" e una strage.
-   - Indizi su una notte di orrore nel villaggio di Lyra.
+   - Un diario dei banditi recita:  
+     > "L'abbiamo trovata nei boschi, sola e coperta di sangue. I superstiti ci hanno pagato per fermarla. Che diavolo è successo in quel villaggio?"
 
 🤔 **Punto di Decisione 1:** Liberare Lyra o lasciarla nella gabbia?
 
@@ -45,17 +46,18 @@ I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logor
 ### **Eventi principali**
 1. **Attraversare la Foresta** 🌿
    - Tracce di artigli su alberi, ossa sparse.
-   - Lyra si comporta in modo strano.
+   - Lyra si comporta in modo strano, si tiene spesso il fianco come se avesse dolore.
 
 2. **Esplorazione del Villaggio** 🏚️
    - Case bruciate, sangue essiccato ovunque.
-   - Resti di corpi con segni di zanne e artigli.
-   - Altare con simboli della luna piena.
+   - Resti di corpi con segni di zanne e artigli **troppo grandi per un normale animale**.
+   - Uno **specchio insanguinato con segni di pugni**, come se qualcuno si fosse guardato e avesse avuto un crollo emotivo.
+   - Tra i resti si trovano le note di un anziano del villaggio:  
+     > "Lyra ha lottato contro la maledizione, ma la luna piena l’ha trasformata. Non posso fermarla. Se qualcuno trova queste parole, sappiate che c’era speranza… ma ora temo sia troppo tardi."
 
-3. **Rivelazione del Segreto** 🐺
-   - Se i PG indagano, scoprono che Lyra è una **licantropa**.
-   - Ha sterminato il villaggio in un raptus incontrollato.
-   - Supplica i PG di lasciarla vivere e di aiutarla a trovare una cura.
+3. **La memoria di Lyra ritorna** 🧠  
+   - Se vede oggetti del villaggio, potrebbe avere **flashback del massacro**.  
+   - Se i PG la mettono alle strette, inizia a ricordare **di aver sterminato il villaggio**.  
 
 ---
 
