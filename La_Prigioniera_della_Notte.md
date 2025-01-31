@@ -37,6 +37,40 @@ I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logor
 
 ---
 
+## 🌲 **Percorso Alternativo: Se i PG lasciano Lyra nella gabbia**
+
+Se i giocatori decidono di non liberarla, la storia continua in modo diverso:  
+Dopo qualche ora, un gruppo di uomini armati emerge dal bosco. Sono **superstiti del villaggio distrutto**, in cerca della donna.  
+
+### **L’Arrivo dei Cacciatori**  
+- Il leader, **Edric il Giusto**, è un uomo segnato dal dolore. I suoi occhi sono stanchi, ma pieni di odio.  
+- Alza la spada e dice:  
+  > "Questa cosa non è umana. Ha sterminato le nostre famiglie. Deve morire."  
+
+- Il gruppo è composto da **4 cacciatori di mostri veterani** e **1 chierico di Helm** con poteri contro i licantropi.  
+
+### **La Scelta dei PG**  
+
+1. **Lasciare che la giustizino** 🗡️  
+   - Edric e i suoi uomini accendono un rogo e preparano Lyra per l’esecuzione.  
+   - Lyra implora i PG di fermarli, dicendo di non ricordare nulla del massacro.  
+   - Se i PG permettono l’esecuzione, sentiranno **un ululato straziante** mentre le fiamme consumano il corpo.  
+   - Più tardi, un senso di disagio li perseguita… era davvero colpevole?  
+   
+2. **Tentare di negoziare** ⚖️  
+   - Con Persuasione (CD 18), i PG possono convincere Edric a lasciarla vivere fino alla prossima luna piena per scoprire la verità.  
+   - Edric accetta, ma solo se i PG giurano di **ucciderla loro stessi se si trasformerà di nuovo**.  
+   - Lyra ora è sotto la loro responsabilità.  
+
+3. **Difendere Lyra con la forza** ⚔️  
+   - Se i PG decidono di combattere, affrontano i cacciatori in un duro scontro.  
+   - Se vincono, Lyra è libera… ma ora **sono nemici di un gruppo di sterminatori di mostri**.  
+   - Questo potrebbe portarli a essere inseguiti da inquisitori in futuro.  
+
+Se Lyra sopravvive, il viaggio verso il villaggio continua… ma con tensioni più alte.  
+
+---
+
 ## 🌲 **Atto 2: Il Villaggio Abbandonato**
 
 ### **Obiettivi**
@@ -68,39 +102,39 @@ I personaggi scorgono un carro attaccato da banditi. Una donna dai vestiti logor
 - Offrire un combattimento intenso o una soluzione alternativa.
 
 ### **Eventi principali**
-1. **Il Conflitto** ⚖️
-   - Lyra prega i PG di risparmiarla.
-   - Alcuni superstiti del villaggio potrebbero arrivare per esigere vendetta.
+1. **Il Conflitto** ⚖️  
+   - Lyra prega i PG di risparmiarla.  
+   - Se i cacciatori sono ancora vivi, potrebbero tornare per terminarla.  
 
-2. **Combattimento Finale** ⚔️
-   - Se i PG vogliono ucciderla, Lyra si trasforma in **licantropo crudele e disperato**.
-   - Se il combattimento si prolunga, la luna sorge, rendendola ancora più forte.
+2. **Combattimento Finale** ⚔️  
+   - Se i PG vogliono ucciderla, Lyra si trasforma in **licantropo crudele e disperato**.  
+   - Se il combattimento si prolunga, la luna sorge, rendendola ancora più forte.  
 
-3. **Punto di Decisione Finale** 🤯
-   - **Opzione 1: Uccidere Lyra.**
-   - **Opzione 2: Aiutarla a trovare una cura.**
-   - **Opzione 3: Lasciarla andare nel mondo.**
+3. **Punto di Decisione Finale** 🤯  
+   - **Opzione 1: Uccidere Lyra.**  
+   - **Opzione 2: Aiutarla a trovare una cura.**  
+   - **Opzione 3: Lasciarla andare nel mondo.**  
 
 ---
 
 ## 🔮 **Epilogo e Conseguenze**
 
-### **Se Lyra viene uccisa:**
-- I PG trovano lettere che rivelano il suo rimorso.
-- Potrebbero essere maledetti per il loro gesto.
+### **Se Lyra viene uccisa:**  
+- I PG trovano lettere che rivelano il suo rimorso.  
+- Potrebbero essere maledetti per il loro gesto.  
 
-### **Se Lyra viene curata:**
-- Diventa un'alleata, ma la maledizione potrebbe tornare...
+### **Se Lyra viene curata:**  
+- Diventa un'alleata, ma la maledizione potrebbe tornare...  
 
-### **Se Lyra fugge:**
-- Tempo dopo, si sentono voci di un nuovo massacro in un villaggio vicino...
-
----
-
-## 🎭 **Temi della One-Shot**
-- **Moralità ambigua:** La giustizia è chiara o offuscata?
-- **Orrore latente:** Il pericolo si nasconde dietro una facciata innocente.
-- **Scelte difficili:** Ogni azione ha una conseguenza.
+### **Se Lyra fugge:**  
+- Tempo dopo, si sentono voci di un nuovo massacro in un villaggio vicino...  
 
 ---
-**Fine della One-Shot** 🎲🔥
+
+## 🎭 **Temi della One-Shot**  
+- **Moralità ambigua:** La giustizia è chiara o offuscata?  
+- **Orrore latente:** Il pericolo si nasconde dietro una facciata innocente.  
+- **Scelte difficili:** Ogni azione ha una conseguenza.  
+
+---  
+**Fine della One-Shot** 🎲🔥  
